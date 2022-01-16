@@ -1,4 +1,4 @@
-# FMA_DM2
+# FMA_Data Mining 2
 Project repository for the Data Mining Andavced course in University of Pisa - AY 2020 - 2021.
 
 The Free Music Archive (FMA) is an open and easily accessible dataset suitable for evaluating several tasks in MIR, a field concerned with browsing, searching, and organizing large music collections. 
